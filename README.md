@@ -1,1 +1,1 @@
-"# AP Buddy Updates Repo" 
+# AP Buddy Updates Repo
